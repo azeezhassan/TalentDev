@@ -218,6 +218,13 @@ C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataL
 C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.AddedModelsForOnboarding.resources
 C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.UpdatedModelsForOnboarding.resources
 C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.ModifiedWelcomeGuideModel.resources
+C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.TalentContext.resources
 C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.csproj.GenerateResource.Cache
 C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.dll
 C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.pdb
+C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.employeeleavemanageadded.resources
+C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.changemodel.resources
+C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.changefromtimeplantoint.resources
+C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.AddLeaveType.resources
+C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.AddLeavedetails.resources
+C:\repos\TalentDev\TalentAcquisition.DataLayer\obj\Debug\TalentAcquisition.DataLayer.Migrations.LeaveApplicationmodel.resources

@@ -237,6 +237,34 @@
     <Compile Include="Migrations\201804031255505_ModifiedWelcomeGuideModel.Designer.cs">
       <DependentUpon>201804031255505_ModifiedWelcomeGuideModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201805240840575_TalentContext.cs" />
+    <Compile Include="Migrations\201805240840575_TalentContext.Designer.cs">
+      <DependentUpon>201805240840575_TalentContext.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201805301737298_employeeleavemanageadded.cs" />
+    <Compile Include="Migrations\201805301737298_employeeleavemanageadded.Designer.cs">
+      <DependentUpon>201805301737298_employeeleavemanageadded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201806051140314_changemodel.cs" />
+    <Compile Include="Migrations\201806051140314_changemodel.Designer.cs">
+      <DependentUpon>201806051140314_changemodel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201806061054354_changefromtimeplantoint.cs" />
+    <Compile Include="Migrations\201806061054354_changefromtimeplantoint.Designer.cs">
+      <DependentUpon>201806061054354_changefromtimeplantoint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201806251019449_AddLeaveType.cs" />
+    <Compile Include="Migrations\201806251019449_AddLeaveType.Designer.cs">
+      <DependentUpon>201806251019449_AddLeaveType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201806251042156_AddLeavedetails.cs" />
+    <Compile Include="Migrations\201806251042156_AddLeavedetails.Designer.cs">
+      <DependentUpon>201806251042156_AddLeavedetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807181628234_LeaveApplicationmodel.cs" />
+    <Compile Include="Migrations\201807181628234_LeaveApplicationmodel.Designer.cs">
+      <DependentUpon>201807181628234_LeaveApplicationmodel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TalentContext.cs" />
@@ -341,6 +369,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201804031255505_ModifiedWelcomeGuideModel.resx">
       <DependentUpon>201804031255505_ModifiedWelcomeGuideModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805240840575_TalentContext.resx">
+      <DependentUpon>201805240840575_TalentContext.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805301737298_employeeleavemanageadded.resx">
+      <DependentUpon>201805301737298_employeeleavemanageadded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201806051140314_changemodel.resx">
+      <DependentUpon>201806051140314_changemodel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201806061054354_changefromtimeplantoint.resx">
+      <DependentUpon>201806061054354_changefromtimeplantoint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201806251019449_AddLeaveType.resx">
+      <DependentUpon>201806251019449_AddLeaveType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201806251042156_AddLeavedetails.resx">
+      <DependentUpon>201806251042156_AddLeavedetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807181628234_LeaveApplicationmodel.resx">
+      <DependentUpon>201807181628234_LeaveApplicationmodel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

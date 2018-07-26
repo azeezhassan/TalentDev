@@ -85,6 +85,9 @@ namespace TalentAcquisition.DataLayer
         public DbSet<WelcomeGuide> WelcomeGuides { get; set; }
         public DbSet<OnboardActivity> OnboardActivities { get; set; }
         public DbSet<CompletedActivity> CompletedActivities { get; set; }
+        public DbSet<ManageEmployeeLeave> ManageEmployeeLeaves { get; set; }
+        public DbSet<LeaveType_Limit> LeaveType_Limits { get; set; }
+        public DbSet<LeaveApplication> LeaveApplications { get; set; }
         // public System.Data.Entity.DbSet<TalentAcquisition.Models.RegisterViewModel> RegisterViewModels { get; set; }
 
         // public System.Data.Entity.DbSet<TalentAcquisition.Models.LoginViewModel> LoginViewModels { get; set; }

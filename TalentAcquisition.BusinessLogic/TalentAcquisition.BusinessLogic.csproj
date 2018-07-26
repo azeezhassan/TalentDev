@@ -100,6 +100,10 @@
     <Compile Include="UpdatedDomain\JobOccupant.cs" />
     <Compile Include="UpdatedDomain\JobQualification.cs" />
     <Compile Include="UpdatedDomain\JobRequirement.cs" />
+    <Compile Include="UpdatedDomain\LeaveApplication.cs" />
+    <Compile Include="UpdatedDomain\LeaveManage.cs" />
+    <Compile Include="UpdatedDomain\LeaveType_Limit.cs" />
+    <Compile Include="UpdatedDomain\ManageEmployeeLeave.cs" />
     <Compile Include="UpdatedDomain\MatchedApplicant.cs" />
     <Compile Include="UpdatedDomain\OnboardActivity.cs" />
     <Compile Include="UpdatedDomain\OnboardingTemplate.cs" />

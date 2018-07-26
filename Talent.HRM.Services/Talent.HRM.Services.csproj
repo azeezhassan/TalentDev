@@ -41,9 +41,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Email\ConfirmInterviewEmail.cs" />
+    <Compile Include="Email\LeavePlanNotification.cs" />
     <Compile Include="Email\NotifyOnboardingEmail.cs" />
     <Compile Include="Interfaces\IEmailMessaging.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TalentAcquisition.DataLayer\TalentAcquisition.DataLayer.csproj">
+      <Project>{526bd282-ab06-4f44-a5a5-6f5461e83864}</Project>
+      <Name>TalentAcquisition.DataLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

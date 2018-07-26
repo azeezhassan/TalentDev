@@ -74,6 +74,6 @@ C:\repos\TalentDev\TalentAcquisition.BusinessLogic\bin\TalentAcquisition.Busines
 C:\repos\TalentDev\TalentAcquisition.BusinessLogic\bin\TalentAcquisition.BusinessLogic.pdb
 C:\repos\TalentDev\TalentAcquisition.BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\repos\TalentDev\TalentAcquisition.BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\repos\TalentDev\TalentAcquisition.BusinessLogic\obj\Debug\TalentAcquisition.BusinessLogic.csprojResolveAssemblyReference.cache
 C:\repos\TalentDev\TalentAcquisition.BusinessLogic\obj\Debug\TalentAcquisition.BusinessLogic.dll
 C:\repos\TalentDev\TalentAcquisition.BusinessLogic\obj\Debug\TalentAcquisition.BusinessLogic.pdb
+C:\repos\TalentDev\TalentAcquisition.BusinessLogic\obj\Debug\TalentAcquisition.BusinessLogic.csprojResolveAssemblyReference.cache
